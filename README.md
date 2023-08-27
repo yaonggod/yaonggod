@@ -12,7 +12,6 @@
 
 
 ## stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yaonggod)](https://github.com/yaonggod/github-readme-stats)
-![yaonggod's GitHub stats](https://github-readme-stats.vercel.app/api?username=yaonggod&show_icons=true&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yaonggod&layout=compact)](https://github.com/yaonggod/github-readme-stats)
 [![Solved.ac
 Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jy23698)](https://solved.ac/jy23698/)
